@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshfaqMonk
 - 👀 I’m interested in Data Analysing, Designing and Developing
-- 🌱 I’m professional at Python & R
+- 🌱 I’m professional at Python, SQL & R
 - 💞️ I’m looking to collaborate on different Projects
 - 📫 How to reach me https://www.linkedin.com/in/ashfaqul-islam0/
 
